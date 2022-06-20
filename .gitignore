@@ -1,0 +1,6 @@
+/.idea/
+/html/
+/screen/*
+/logs/*
+/captcha/
+*.pyc
